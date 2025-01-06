@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">KeyboardFocusManagementDemo</string>
+
+    <!-- Main -->
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="begin_filling_out_form">Begin filling out form</string>
+    <string name="go_to_next_field">Go to next field</string>
+    <string name="submit">Submit</string>
+    <string name="submitted">Submitted</string>
 </resources>
